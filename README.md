@@ -1,4 +1,4 @@
-# Simple REST API using Flask, SQLAlchemy
+# Simple REST API using Flask, SQLAlchemy and Marshamllow
 
 ## Instructions to setup local server:
 * `pip3 install pipenv`
